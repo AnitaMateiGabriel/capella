@@ -16,7 +16,7 @@ include "https://download.eclipse.org/sirius/updates/stable/6.5.0-S20210430-0520
 
 with source, requirements
 
-location eclipse "http://download.eclipse.org/releases/2020-06" {
+location eclipse "http://download.eclipse.org/releases/2021-06" {
 	org.eclipse.sdk.feature.group
 	org.eclipse.platform.feature.group
 	org.eclipse.draw2d.source.feature.group
@@ -33,7 +33,6 @@ location eclipse "http://download.eclipse.org/releases/2020-06" {
 	org.eclipse.egit.source.feature.group
 	org.eclipse.mylyn_feature.feature.group
 	org.eclipse.mylyn.commons.feature.group
-	org.eclipse.mylyn.commons.sdk.feature.group
 	org.eclipse.mylyn.context_feature.feature.group
 	org.eclipse.mylyn.monitor.feature.group
 	org.eclipse.mylyn.team_feature.feature.group
